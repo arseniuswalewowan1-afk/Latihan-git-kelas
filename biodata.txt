@@ -1,2 +1,3 @@
 Nama: Lorensia novita fahik
 Nim : 202557201076
+prodi: Sistem Informasi
